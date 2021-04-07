@@ -1,0 +1,19 @@
+*.pyc
+
+.DS_Store
+**/.DS_Store
+
+# Environments
+**/.vs
+.env
+.venv
+
+# pycharm
+__pycache__
+
+# VScode
+.VScode
+.vscode
+
+# idea
+.idea/
